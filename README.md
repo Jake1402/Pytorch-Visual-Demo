@@ -14,7 +14,7 @@ The script explores how changing the number of model weights affects a networkâ€
 
 These plots make it easy to compare how network capacity influences learning and overfitting.
 
-![Complete Comparison](./Images/Single Figure Comparison MAIN.png)
+![Complete Comparison](Images/Single Figure Comparison MAIN.png)
 
 ## Requirements
 - Python 3.x
